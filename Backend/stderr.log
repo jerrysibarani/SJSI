@@ -1,0 +1,574 @@
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'mysql'
+Require stack:
+- /home/frederic/jerry.api/db.config.js
+- /home/frederic/jerry.api/models/testimonial.mode.js
+- /home/frederic/jerry.api/controllers/testimonial.controller.js
+- /home/frederic/jerry.api/routes/testimonial.routes.js
+- /home/frederic/jerry.api/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/frederic/jerry.api/db.config.js:2:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/frederic/jerry.api/db.config.js',
+    '/home/frederic/jerry.api/models/testimonial.mode.js',
+    '/home/frederic/jerry.api/controllers/testimonial.controller.js',
+    '/home/frederic/jerry.api/routes/testimonial.routes.js',
+    '/home/frederic/jerry.api/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'mysql'
+Require stack:
+- /home/frederic/jerry.api/db.config.js
+- /home/frederic/jerry.api/models/testimonial.mode.js
+- /home/frederic/jerry.api/controllers/testimonial.controller.js
+- /home/frederic/jerry.api/routes/testimonial.routes.js
+- /home/frederic/jerry.api/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/frederic/jerry.api/db.config.js:2:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/frederic/jerry.api/db.config.js',
+    '/home/frederic/jerry.api/models/testimonial.mode.js',
+    '/home/frederic/jerry.api/controllers/testimonial.controller.js',
+    '/home/frederic/jerry.api/routes/testimonial.routes.js',
+    '/home/frederic/jerry.api/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'mysql'
+Require stack:
+- /home/frederic/jerry.api/db.config.js
+- /home/frederic/jerry.api/models/testimonial.mode.js
+- /home/frederic/jerry.api/controllers/testimonial.controller.js
+- /home/frederic/jerry.api/routes/testimonial.routes.js
+- /home/frederic/jerry.api/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/frederic/jerry.api/db.config.js:2:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/frederic/jerry.api/db.config.js',
+    '/home/frederic/jerry.api/models/testimonial.mode.js',
+    '/home/frederic/jerry.api/controllers/testimonial.controller.js',
+    '/home/frederic/jerry.api/routes/testimonial.routes.js',
+    '/home/frederic/jerry.api/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'mysql'
+Require stack:
+- /home/frederic/jerry.api/db.config.js
+- /home/frederic/jerry.api/models/testimonial.mode.js
+- /home/frederic/jerry.api/controllers/testimonial.controller.js
+- /home/frederic/jerry.api/routes/testimonial.routes.js
+- /home/frederic/jerry.api/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/frederic/jerry.api/db.config.js:2:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/frederic/jerry.api/db.config.js',
+    '/home/frederic/jerry.api/models/testimonial.mode.js',
+    '/home/frederic/jerry.api/controllers/testimonial.controller.js',
+    '/home/frederic/jerry.api/routes/testimonial.routes.js',
+    '/home/frederic/jerry.api/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'mysql'
+Require stack:
+- /home/frederic/jerry.api/db.config.js
+- /home/frederic/jerry.api/models/testimonial.mode.js
+- /home/frederic/jerry.api/controllers/testimonial.controller.js
+- /home/frederic/jerry.api/routes/testimonial.routes.js
+- /home/frederic/jerry.api/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/frederic/jerry.api/db.config.js:2:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/frederic/jerry.api/db.config.js',
+    '/home/frederic/jerry.api/models/testimonial.mode.js',
+    '/home/frederic/jerry.api/controllers/testimonial.controller.js',
+    '/home/frederic/jerry.api/routes/testimonial.routes.js',
+    '/home/frederic/jerry.api/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'mysql'
+Require stack:
+- /home/frederic/jerry.api/db.config.js
+- /home/frederic/jerry.api/models/testimonial.mode.js
+- /home/frederic/jerry.api/controllers/testimonial.controller.js
+- /home/frederic/jerry.api/routes/testimonial.routes.js
+- /home/frederic/jerry.api/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/frederic/jerry.api/db.config.js:2:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/frederic/jerry.api/db.config.js',
+    '/home/frederic/jerry.api/models/testimonial.mode.js',
+    '/home/frederic/jerry.api/controllers/testimonial.controller.js',
+    '/home/frederic/jerry.api/routes/testimonial.routes.js',
+    '/home/frederic/jerry.api/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'mysql'
+Require stack:
+- /home/frederic/jerry.api/db.config.js
+- /home/frederic/jerry.api/models/testimonial.mode.js
+- /home/frederic/jerry.api/controllers/testimonial.controller.js
+- /home/frederic/jerry.api/routes/testimonial.routes.js
+- /home/frederic/jerry.api/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/frederic/jerry.api/db.config.js:2:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/frederic/jerry.api/db.config.js',
+    '/home/frederic/jerry.api/models/testimonial.mode.js',
+    '/home/frederic/jerry.api/controllers/testimonial.controller.js',
+    '/home/frederic/jerry.api/routes/testimonial.routes.js',
+    '/home/frederic/jerry.api/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'mysql'
+Require stack:
+- /home/frederic/jerry.api/db.config.js
+- /home/frederic/jerry.api/models/testimonial.mode.js
+- /home/frederic/jerry.api/controllers/testimonial.controller.js
+- /home/frederic/jerry.api/routes/testimonial.routes.js
+- /home/frederic/jerry.api/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/frederic/jerry.api/db.config.js:2:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/frederic/jerry.api/db.config.js',
+    '/home/frederic/jerry.api/models/testimonial.mode.js',
+    '/home/frederic/jerry.api/controllers/testimonial.controller.js',
+    '/home/frederic/jerry.api/routes/testimonial.routes.js',
+    '/home/frederic/jerry.api/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'mysql'
+Require stack:
+- /home/frederic/jerry.api/db.config.js
+- /home/frederic/jerry.api/models/testimonial.mode.js
+- /home/frederic/jerry.api/controllers/testimonial.controller.js
+- /home/frederic/jerry.api/routes/testimonial.routes.js
+- /home/frederic/jerry.api/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/frederic/jerry.api/db.config.js:2:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/frederic/jerry.api/db.config.js',
+    '/home/frederic/jerry.api/models/testimonial.mode.js',
+    '/home/frederic/jerry.api/controllers/testimonial.controller.js',
+    '/home/frederic/jerry.api/routes/testimonial.routes.js',
+    '/home/frederic/jerry.api/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'mysql'
+Require stack:
+- /home/frederic/jerry.api/db.config.js
+- /home/frederic/jerry.api/models/testimonial.mode.js
+- /home/frederic/jerry.api/controllers/testimonial.controller.js
+- /home/frederic/jerry.api/routes/testimonial.routes.js
+- /home/frederic/jerry.api/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/frederic/jerry.api/db.config.js:2:15)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/frederic/jerry.api/db.config.js',
+    '/home/frederic/jerry.api/models/testimonial.mode.js',
+    '/home/frederic/jerry.api/controllers/testimonial.controller.js',
+    '/home/frederic/jerry.api/routes/testimonial.routes.js',
+    '/home/frederic/jerry.api/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/frederic/jerry.api/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/frederic/jerry.api/index.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/frederic/jerry.api/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/frederic/jerry.api/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/frederic/jerry.api/index.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/frederic/jerry.api/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/frederic/jerry.api/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/frederic/jerry.api/index.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/frederic/jerry.api/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/frederic/jerry.api/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/frederic/jerry.api/index.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/frederic/jerry.api/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/frederic/jerry.api/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/frederic/jerry.api/index.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/frederic/jerry.api/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/frederic/jerry.api/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/frederic/jerry.api/index.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/frederic/jerry.api/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'express'
+Require stack:
+- /home/frederic/jerry.api/index.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/frederic/jerry.api/index.js:1:17)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/frederic/jerry.api/index.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:220:20)
+Emitted 'error' event on Connection instance at:
+    at Connection._handleProtocolError (/home/frederic/nodevenv/jerry.api/16/lib/node_modules/mysql/lib/Connection.js:423:8)
+    at Protocol.emit (node:events:390:28)
+    at Protocol._delegateError (/home/frederic/nodevenv/jerry.api/16/lib/node_modules/mysql/lib/protocol/Protocol.js:398:10)
+    at Protocol.handleNetworkError (/home/frederic/nodevenv/jerry.api/16/lib/node_modules/mysql/lib/protocol/Protocol.js:371:10)
+    at Connection._handleNetworkError (/home/frederic/nodevenv/jerry.api/16/lib/node_modules/mysql/lib/Connection.js:418:18)
+    at Socket.emit (node:events:390:28)
+    at emitErrorNT (node:internal/streams/destroy:157:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:122:3)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  errno: -104,
+  code: 'ECONNRESET',
+  syscall: 'read',
+  fatal: true
+}
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:220:20)
+Emitted 'error' event on Connection instance at:
+    at Connection._handleProtocolError (/home/frederic/nodevenv/jerry.api/16/lib/node_modules/mysql/lib/Connection.js:423:8)
+    at Protocol.emit (node:events:390:28)
+    at Protocol._delegateError (/home/frederic/nodevenv/jerry.api/16/lib/node_modules/mysql/lib/protocol/Protocol.js:398:10)
+    at Protocol.handleNetworkError (/home/frederic/nodevenv/jerry.api/16/lib/node_modules/mysql/lib/protocol/Protocol.js:371:10)
+    at Connection._handleNetworkError (/home/frederic/nodevenv/jerry.api/16/lib/node_modules/mysql/lib/Connection.js:418:18)
+    at Socket.emit (node:events:390:28)
+    at emitErrorNT (node:internal/streams/destroy:157:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:122:3)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  errno: -104,
+  code: 'ECONNRESET',
+  syscall: 'read',
+  fatal: true
+}
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:220:20)
+Emitted 'error' event on Connection instance at:
+    at Connection._handleProtocolError (/home/frederic/nodevenv/jerry.api/16/lib/node_modules/mysql/lib/Connection.js:423:8)
+    at Protocol.emit (node:events:390:28)
+    at Protocol._delegateError (/home/frederic/nodevenv/jerry.api/16/lib/node_modules/mysql/lib/protocol/Protocol.js:398:10)
+    at Protocol.handleNetworkError (/home/frederic/nodevenv/jerry.api/16/lib/node_modules/mysql/lib/protocol/Protocol.js:371:10)
+    at Connection._handleNetworkError (/home/frederic/nodevenv/jerry.api/16/lib/node_modules/mysql/lib/Connection.js:418:18)
+    at Socket.emit (node:events:390:28)
+    at emitErrorNT (node:internal/streams/destroy:157:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:122:3)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  errno: -104,
+  code: 'ECONNRESET',
+  syscall: 'read',
+  fatal: true
+}
+node:events:368
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:220:20)
+Emitted 'error' event on Connection instance at:
+    at Connection._handleProtocolError (/home/frederic/nodevenv/jerry.api/16/lib/node_modules/mysql/lib/Connection.js:423:8)
+    at Protocol.emit (node:events:390:28)
+    at Protocol._delegateError (/home/frederic/nodevenv/jerry.api/16/lib/node_modules/mysql/lib/protocol/Protocol.js:398:10)
+    at Protocol.handleNetworkError (/home/frederic/nodevenv/jerry.api/16/lib/node_modules/mysql/lib/protocol/Protocol.js:371:10)
+    at Connection._handleNetworkError (/home/frederic/nodevenv/jerry.api/16/lib/node_modules/mysql/lib/Connection.js:418:18)
+    at Socket.emit (node:events:390:28)
+    at emitErrorNT (node:internal/streams/destroy:157:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:122:3)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  errno: -104,
+  code: 'ECONNRESET',
+  syscall: 'read',
+  fatal: true
+}
