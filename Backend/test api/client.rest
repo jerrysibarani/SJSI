@@ -1,0 +1,64 @@
+GET http://localhost:5000/api/client
+
+###
+
+GET http://localhost:5000/api/client/2
+
+###
+
+POST http://localhost:5000/api/client/
+Content-Type: application/json
+
+{
+            "nik": "9106120910000002",
+            "password_number": "091000",
+            "firstname": "Michael",
+            "lastname": "Narmo",
+            "place_birth": "Jepang",
+            "date_birth": "2002-11-25",
+            "nationality": "Jepang",
+            "gender": "Laki-laki",
+            "occupation": "database analys",
+            "address": "Persada Banten",
+            "email": "michael@gmail.com",
+            "contact_person": "Kepada yang terhormat..",
+            "office_number": "095673728",
+            "join_date": "11-04-2022",
+            "marital": "MENIKAH",
+            "status": "ACTIVE"
+}
+
+###
+
+PUT http://localhost:5000/api/client/4
+Content-Type: application/json
+
+{ 
+            "nik": "9106120910000002",
+            "password_number": "110422",
+            "firstname": "Eben",
+            "lastname": "Narmo",
+            "place_birth": "Germany",
+            "date_birth": "2010-08-10",
+            "nationality": "Germany",
+            "gender": "Laki-laki",
+            "occupation": "IT Consultant",
+            "address": "My Sweet Home",
+            "email": "eben10narmo@gmail.com",
+            "contact_person": "Bapal/Ibu..",
+            "office_number": "10264256",
+            "join_date": "11-04-2021",
+            "marital": "Belum Kawin",
+            "status": "ACTIVE"
+}
+
+###
+
+DELETE http://localhost:5000/api/client/9
+Content-Type: application/json
+
+{
+   
+}
+
+###
