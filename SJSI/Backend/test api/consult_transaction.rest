@@ -1,0 +1,19 @@
+GET http://localhost:5000/api/consult_transaction
+
+###
+
+GET http://localhost:5000/api/consult_transaction/2
+
+###
+
+POST http://localhost:5000/api/consult_transaction/
+Content-Type: application/json
+
+{   
+    "userid":"26",
+    "no_transaction": "ABC003",
+    "PIC": "Jeremia",
+    "transaction_date": "2022-06-04"     
+}
+
+###
