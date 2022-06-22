@@ -1,0 +1,44 @@
+GET http://localhost:5000/api/temp_consult_details
+
+###
+
+GET http://localhost:5000/api/temp_consult_details/1
+
+###
+
+POST http://localhost:5000/api/temp_consult_details/
+Content-Type: application/json
+
+{   
+    "userid":"13",
+    "no_transaction": "56778",
+    "Case_id": "11",
+    "Case_name": "Hutang Piutang",
+    "quantity": "12",
+    "price": "50000",
+    "discount": "20%"
+     
+}
+
+###
+
+PUT http://localhost:5000/api/temp_consult_details/6
+Content-Type: application/json
+
+{
+    "userid":"11",
+    "no_transaction": "67352",
+    "PIC": "Steven James",
+    "transaction_date": "2022-09-24"    
+}
+
+###
+
+DELETE http://localhost:5000/api/temp_consult_details/5
+Content-Type: application/json
+
+{
+   
+}
+
+###
