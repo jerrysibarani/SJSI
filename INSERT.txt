@@ -1,0 +1,23 @@
+-- insert SELECT by condition
+INSERT into consult_details(`userid`, `no_transaction`, `Case_id`, `Case_name`, `quantity`, `price`, `discount`)
+SELECT `userid`, `no_transaction`, `Case_id`, `Case_name`, `quantity`, `price`, `discount` FROM temp_consult_details WHERE `userid`=11;
+
+-- Delete by condition
+DELETE FROM temp_consult_details WHERE `userid`=11;
+
+consult_transaction
+TransactionCase
+
+Penjualan Ilegal
+Sengketa Tanah
+Hutang Piutang
+Kekerasan dalam Rumah Tangga
+Kasus Somasi
+Pembebasan Tanah
+
+<div className="grid">
+                <div className="col-12 md:col-6">
+                    <div className="card p-fluid">
+</div>
+</div>
+ </div>
